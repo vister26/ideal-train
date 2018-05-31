@@ -1,2 +1,4 @@
 # ideal-train
-testing
+
+TO jest testowy git
+Prosze go skasowac
